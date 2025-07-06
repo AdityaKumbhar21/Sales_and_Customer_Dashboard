@@ -1,16 +1,16 @@
-# Sales_and_Customer_Dashboard
+# Sales and Customer Dashboard
 
-## 1. Project Overview
+## Overview
 This project involved the development of two interactive dashboards – a Sales Dashboard and a Customers Dashboard – designed to provide key stakeholders (sales managers, executives, and marketing teams) with actionable insights into sales performance and customer behavior. The goal is to enable data-driven strategic decisions and foster a deeper understanding of business trends.
 
 
-## 2. Problem Statement / Objective
+## Problem Statement
 The primary objective of this project was to address critical information gaps within the organization:
 - Sales managers lacked a unified and dynamic view of year-over-year sales trends, hindering their ability to analyze performance and identify growth opportunities.
 - Marketing teams required deeper insights into customer segments, loyalty, and behavior to refine strategies and improve customer satisfaction.
 - These dashboards aim to centralize and visualize key performance indicators, providing a clear, interactive platform for addressing these challenges.  
 
-## 3. Key Requirements. 
+## Key Requirements. 
 Need to build two dashboards to help stakeholders, including sales managers and executives to analyze sales performance and customers.  
 ### **Sales Dashboard**
 
@@ -61,7 +61,7 @@ Aims to provide an overview of customer data, trends and behaviors. It will help
 **Data Filters**
 - Allow users to filter data by product information like category and subcategory and by location information like region, state and city.  
 
-## 4. Finalizing the charts
+## Finalizing the charts
 
 #### For Sales Requirement
 
@@ -78,7 +78,7 @@ Aims to provide an overview of customer data, trends and behaviors. It will help
 4. Showing the top 10 customers by profit we will be using a Table with features as Rank, Customer Name, Last Order, Total Sales, Orders, Profit.
 
 
-## 5. Methodology / Approach
+## Methodology / Approach
 The dashboard development followed a user-centric design approach, prioritizing stakeholder requirements and data-driven insights:
 
 - **Requirement Gathering:** Collaborated with hypothetical sales managers and marketing teams to identify their key performance indicators (KPIs) and analytical needs.
@@ -87,7 +87,7 @@ The dashboard development followed a user-centric design approach, prioritizing 
 - **Visualization Selection:** Chose appropriate chart types (e.g., line charts for trends, bar-in-bar for comparisons, banners for KPIs) to effectively communicate insights and ensure clarity.
 - **Interactivity Implementation:** Incorporated dynamic filters (year, product, location) and chart-as-filter actions to allow users to explore data at various levels of detail.
 
-## 7. Key Findings & Insights
+##  Key Findings & Insights
 **The dashboards reveal several critical insights:**
 
 **Sales Dashboard Insights:** 
@@ -107,7 +107,7 @@ The dashboard development followed a user-centric design approach, prioritizing 
 
 - **Orders Growth:** YoY Growth in orders is significantly visible and also there is a spike in orders after the month of October which is relevant to the sales insight and can be helpful to increase the number of orders in that period by implementing different promotion strategies like discount and seasonal offers.
 
-## 8. Dashboard Walkthrough
+## Dashboard Walkthrough
 
 **Sales Dashboard:**  
 - **KPI:** Large, clear banners at the top display total sales, profits, and quantity for the current and previous year, providing an immediate performance snapshot.
@@ -126,7 +126,7 @@ The dashboard development followed a user-centric design approach, prioritizing 
 
 - **Customer Distribution:** A bar chart shows the count of customers based on the number of orders placed, providing insights into customer loyalty tiers.
 
--- **Top 10 Customers:** A detailed table lists the top 10 customers by profit, including their rank, number of orders, current sales, current profit, and last order date.
+- **Top 10 Customers:** A detailed table lists the top 10 customers by profit, including their rank, number of orders, current sales, current profit, and last order date.
 
 **Interactivity & Filters:**  
 - **Dynamic Year Selection:** A prominent 'Year Selector' filter allows users to dynamically view historical data for any desired year across both dashboards.
@@ -140,3 +140,34 @@ The dashboard development followed a user-centric design approach, prioritizing 
         Product Information: Category, Subcategory
 
         Location Information: Region, State, City
+
+
+## Impact & Value Proposition
+**These dashboards provide significant value by:**  
+- **Empowering Data-Driven Decisions:** Sales managers can quickly identify underperforming products or regions, allowing for timely interventions and strategic resource allocation.
+
+- **Optimizing Marketing Efforts:** Marketing teams can segment customers more effectively, leading to more targeted campaigns, improved customer satisfaction, and increased loyalty.
+
+- **Enhancing Performance Monitoring:** Stakeholders gain a clear, real-time understanding of key performance indicators and trends, facilitating proactive management and strategic planning.
+
+## Future Enhancements
+- Integration of marketing campaign data to analyze ROI.
+
+- Implementation of forecasting models for sales and customer growth.
+
+- Development of a Customer Lifetime Value (CLTV) metric.
+
+- Adding drill-down capabilities to individual customer profiles.
+
+## Links
+Live Dashboard: [Tableau Link](https://public.tableau.com/views/SalesDashboard_17515113910860/SalesDashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
+
+GitHub Repository: [GitHub Repository URL ](https://github.com/AdityaKumbhar21/Sales_and_Customer_Dashboard)
+
+## Your Role & Contributions
+As an individual project, I was responsible for the entire lifecycle, including data sourcing (simulated), cleaning, dashboard design, visualization development, and documentation.
+
+## Contact Information.  
+Name: Aditya Kumbhar.  
+Email: adityakumbhar915@gmail.com.  
+LinkedIn: [Linkedin Profile](www.linkedin.com/in/aditya-kumbhar-688a17252)
