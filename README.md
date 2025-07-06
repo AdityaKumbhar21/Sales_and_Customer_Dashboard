@@ -164,6 +164,8 @@ Live Dashboard: [Tableau Link](https://public.tableau.com/views/SalesDashboard_1
 
 GitHub Repository: [GitHub Repository URL ](https://github.com/AdityaKumbhar21/Sales_and_Customer_Dashboard)
 
+Blog Link: [Blog Link](https://medium.com/@adityakumbhar915/building-actionable-sales-customer-dashboards-a-data-story-e7031e0756a7)
+
 ## Your Role & Contributions
 As an individual project, I was responsible for the entire lifecycle, including data sourcing (simulated), cleaning, dashboard design, visualization development, and documentation.
 
